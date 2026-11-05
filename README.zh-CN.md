@@ -2,6 +2,9 @@
 
 简体中文 · [English](README.md)
 
+> [!IMPORTANT]
+> 这个主题已停止维护。原作者现在维护的是从头重写的 [Claude Style](https://github.com/Xv-Bowen/Claude-Style-Typora)，同样包含浅色和深色两套 Typora 主题。
+
 一套受 Claude 安静阅读体验启发、为 Typora 深度打磨的明暗双主题。温暖的中性色、克制的陶土色强调和完整的应用界面适配，共同组成一个安静却不简陋的写作空间。
 
 它不只是给文档换一组颜色。每套主题约包含 3,400 行 CSS，从正文排版、Markdown 组件、技术写作，到文件树、目录、菜单、窗口、响应式布局和打印输出，都进行了系统化处理。

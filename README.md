@@ -2,6 +2,9 @@
 
 [简体中文](README.zh-CN.md) · English
 
+> [!IMPORTANT]
+> This theme is no longer maintained. Its original author now works on [Claude Style](https://github.com/Xv-Bowen/Claude-Style-Typora), a light and a dark Typora theme written from scratch.
+
 A carefully engineered light-and-dark theme pair for Typora, inspired by the calm reading experience associated with Claude. Warm neutrals, restrained clay accents, and a complete application-shell treatment create a writing space that feels quiet without feeling unfinished.
 
 This is more than a document color preset. Each variant contains roughly 3,400 lines of CSS covering typography, Markdown components, technical writing, navigation, editing modes, window chrome, responsive behavior, and print output.
